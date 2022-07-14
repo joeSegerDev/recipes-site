@@ -22,3 +22,8 @@ a.back{
     padding: 5px;
     border-radius: 5px;
 }
+
+.recipe-img {
+    width:500px;
+    height: auto;
+}
